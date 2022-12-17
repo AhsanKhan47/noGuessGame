@@ -1,7 +1,7 @@
 {
-  "name": "noguessgame",
-  "version": "1.0.0",
-  "description": "",
+  "name": "ahsanguessgame",
+  "version": "1.1.0",
+  "description": "This is a number guessing game.",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -10,6 +10,7 @@
   },
   "keywords": [],
   "author": "",
+  "bin": "./index.js",
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^18.11.15"
